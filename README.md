@@ -2,6 +2,7 @@
 <h1 align="left">Olá 👋 </h1>
 
 <p align="left">Olá! Sou o Gabo, desenvolvedor web PHP com 4 anos de experiência. Crio soluções para e-commerce a través de scripts, plugins e API’s.  Além de isso experimento o potencial do IoT para uso comercial.</p>
+
 ###
 
 <h2 align="left">Sobre mim</h2>

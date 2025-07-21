@@ -45,11 +45,13 @@
 
 ###
 
-<h2 align="left">Meu CV</h2>
+<h2 align="left">Links</h2>
 
 ###
 <div align="left">
-  <a href="https://drive.google.com/file/d/1oEZF3U3_qGdRmJPGyjv1wib3yyCKF16O/view?usp=sharing" target="_blank">Ver CV</a>
+  <a href="https://drive.google.com/file/d/1oEZF3U3_qGdRmJPGyjv1wib3yyCKF16O/view?usp=sharing" target="_blank">Ver CV</a><br>
+  <a href="https://www.linkedin.com/in/gabo-mota-chong" target="_blank">Linkedin</a><br>
+  <a href="http://gaboworks.com" target="_blank">Website</a><br>
 </div>
 
 <!--

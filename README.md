@@ -12,7 +12,7 @@
 <p align="left">
   ✨ Criando bugs desde 2020<br>
   📚 Atualmente to aprendendo NextJS<br>
-  🎯 Goals: lanzar Dashor<br>
+  🎯 Goals: Dashor<br>
   🎲 Gosto de: passear em bike
 </p>
 

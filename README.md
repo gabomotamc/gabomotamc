@@ -45,6 +45,12 @@
 
 ###
 
+<h2 align="left">Meu CV</h2>
+
+###
+<div align="left">
+  <a href="https://drive.google.com/file/d/1oEZF3U3_qGdRmJPGyjv1wib3yyCKF16O/view?usp=sharing" target="_blank">Ver CV</a>
+</div>
 
 <!--
 **gabomotamc/gabomotamc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

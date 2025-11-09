@@ -10,9 +10,9 @@
 ###
 
 <p align="left">
-  ✨ Criando bugs desde 2020<br>
+  ✨ Resolvendo bugs desde 2020<br>
   📚 Atualmente to aprendendo NextJS<br>
-  🎯 Goals: Dashor<br>
+  🎯 Goals: Lançar Garket & Dashor<br>
   🎲 Gosto de: passear em bike
 </p>
 

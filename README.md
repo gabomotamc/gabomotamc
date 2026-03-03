@@ -49,8 +49,8 @@
 
 ###
 <div align="left">
-  <a href="https://drive.google.com/file/d/1oEZF3U3_qGdRmJPGyjv1wib3yyCKF16O/view?usp=sharing" target="_blank">Ver CV</a><br>
-  <a href="https://www.linkedin.com/in/gabo-mota-chong" target="_blank">Linkedin</a><br>
+  <a href="https://gaboworks.com/web-dev-cv/gabriel-mota-desenvolvedor-pt.pdf" target="_blank">Ver CV</a><br>
+  <a href="https://www.linkedin.com/in/gabo-mota-chong/?locale=pt" target="_blank">Linkedin</a><br>
   <a href="http://gaboworks.com" target="_blank">Website</a><br>
 </div>
 

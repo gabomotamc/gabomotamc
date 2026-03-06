@@ -1,7 +1,9 @@
 
 <h1 align="left">Olá 👋 </h1>
 
-<p align="left">Olá! Sou o Gabo, desenvolvedor web PHP com 4 anos de experiência. Eu crio ferramentas para você levar um melhor controle sobre suas metas e resultados da suas vendas e serviços. Também gosto de experimentar com a domótica para melhorar a rotina personal/profissional.</p>
+<p align="left">Olá! Sou o Gabo, Desenvolvedor Web Full Stack com mais de 4 anos de experiência em projetos de alta
+demanda. Especialista em criar soluções usando ferramentas digitais robustas que
+potencializam resultados dos negócios.</p>
 
 ###
 
@@ -12,7 +14,7 @@
 <p align="left">
   ✨ Resolvendo bugs desde 2020<br>
   📚 Atualmente to aprendendo NextJS<br>
-  🎯 Goals: Lançar Garket & Dashor<br>
+  🎯 Goals: Dashor<br>
   🎲 Gosto de: passear em bike
 </p>
 
@@ -27,6 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  /><img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  /><img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="javascript logo"  /><img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="javascript logo"  /><img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40" alt="javascript logo"  /><img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="javascript logo"  /><img width="12" />
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -49,9 +55,9 @@
 
 ###
 <div align="left">
-  <a href="https://gaboworks.com/web-dev-cv/gabriel-mota-desenvolvedor-pt.pdf" target="_blank">Ver CV</a><br>
-  <a href="https://www.linkedin.com/in/gabo-mota-chong/?locale=pt" target="_blank">Linkedin</a><br>
-  <a href="http://gaboworks.com" target="_blank">Website</a><br>
+  <a href="https://gaboworks.com/web-dev-cv/gabriel-mota-desenvolvedor-pt.pdf" target="_blank">Ver CV</a><br><br>
+  <a href="https://www.linkedin.com/in/gabo-mota-chong/?locale=pt" target="_blank">Linkedin</a><br><br>
+  <a href="http://gaboworks.com" target="_blank">Website</a><br><br>
 </div>
 
 <!--
